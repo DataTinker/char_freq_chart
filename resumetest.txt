@@ -1,0 +1,76 @@
+JONATHAN GOLDBERG, M.S.
+Newington, Connecticut 06111
+860.785.5851 (Cell) • goldberg_j@hotmail.com
+www.LinkedIn.com/in/nescient 
+
+
+Transformational Data and Analytics Leader
+Team Leadership • Data Engineering • Stakeholder Management • Strategic Thinking
+A data-driven, hands-on, multi-talented technology professional who has built a career meeting complex technological and business challenge, and delivering innovative, effective solutions and results. Currently serving in a team leadership role as part of The Hartford’s transformation to a more data-driven company. Career progression includes excellence as a Business Analyst, Senior Business Analyst, Product Manager and Capability/Solution Manager. Career characterized by accepting and excelling at enterprise-level, mission-critical transformational initiatives. Expertise in serving as a liaison between the technology and business aspects of an organization. Force multiplier. Exceptional communication, motivational, and presentation skills, including C-level. Offering deep, broad technology expertise, superior executive-level leadership and managerial skills, and a no-limits growth-oriented entrepreneurial spirit.
+
+•	Strategic Planning & Thinking
+•	Business Intelligence 
+•	Analytical Advisor
+•	Work Plan Development
+•	Presentations 	•	Data Analysis
+•	Relationship Management
+•	Enterprise Architecture
+•	Stakeholder Communication
+•	Agile Methodologies	•	Team Leadership
+•	Best Practices
+•	Process Improvement
+•	Professional Collaboration
+•	Problem Solving
+___________________________________________________________________________________________________
+EXPERIENCE
+THE HARTFORD FINANCIAL SERVICES GROUP – Hartford, Connecticut		June 2013-Present
+An Investment and Insurance Company – Ranked 160th in Fortune 500 
+Director of Data Engineering, Enterprise Data Office (July 2016-Present)
+Started as an analytic resource and became the first member of a new team supporting The Hartford’s self-service Tableau deployment for BI teams in 2016.  As the team grew became the team lead in 2017 and was promoted to Director in March 2019. Our team and accomplishments continue to grow – directing the efforts of three managers and a 25-person team (15 employees and 10 core vendors, with relationships with an additional 20 vendors for project support).
+•	Business Intelligence (BI) Enablement Services Team – supports 35+ BI Teams at the Hartford and around 800 developers, with over 12,000 end users in the past year on 7 platforms (Tableau, ThoughtSpot, Dremio, Dataiku, MSBI, SAS, Business Objects).
+•	Advanced Analytic Enablement Services Team – supports our BI and Data Science community via a proprietary/patented platform that leverages open-source technologies and commercial software(R Studio, ElasticsSearch) enabling them to process large amounts of data and perform complex modeling/analysis. This team was inherited, with platform previously created. 
+•	Quantexans Team – supports a product (Quantexa) which is used for Entity Resolution – a key enabler of the Data Science organization that lets them associate data points from a myriad of systems and formats into one record.  
+•	Selected Achievements / Contributions –Developed a team strategy focusing on people, processes, and technology to enable self-service. Led the growth of the Tableau Platform from inception to supporting 35+ teams, 650 developers, and 12,000 end users. Started a data literacy program. Managed customer needs, contracts and negotiations, and team growth. Utilized agile to maximize The Hartford’s value to enterprise with a ~$10 million budget. Led multi-million-dollar SAS Migration project to convert ~500 users and thousands of programs to The Hartford’s new cloud analytics platforms that provide more business value at lower costs. Transformed The Hartford’s relationship with Data Science and coordinated support for various initiatives from their MLOps roll out to The Hartford’s Data-As-A-Service projects. Part of AWS Cloud Enablement Team that devises training, best practices, and other tasks as we migrated to Cloud.
+
+Data Engineer (Jan 2015-July 2016) – Worked on a hybrid development team on the creation and support of an Analytical Data Mart for the research department’s predictive models. Involved in all aspects of the project including requirements gathering, design, testing, and user adoption. Maintained customer-facing applications to support the data dart – namely a MediaWiki server for metadata discovery, a SharePoint site, and a discussion board to handle incoming questions. Tested the most release items in 2015 and had the highest response and closure rate for customer questions. 
+
+Consultant Actuarial (June 2013¬-Jan 2015) – Supported ground-up claim-based studies utilizing direct/ceded loss information for the actuarial reserving department. Streamlined this process to reduce the error rate; eliminated the need for a technical resource to run it. Supported ad hoc requests for Actuarial Reserving such as the creation of reporting cubes in TM1, loss triangle datasets in SAS, scripts to automate tasks in ResQ (Financial Modeling Software) and built a tool to migrate and re-link 100k+ files. Served on a cross-functional data and technology team to find ways to leverage technology with initiatives such as the creation of an Actuarial SharePoint Site, and a wiki.  
+Jonathan Goldberg/Page Two
+
+GUARDIAN LIFE – Bethlehem, Pennsylvania                                                                                        Mar. 2012-June 2013
+One of the Largest Mutual Life Insurance Companies in the World 
+Senior Business Analyst – Developed regularly scheduled Business Objects reports for sales reps and brokers to grow the business through the promotion of cross-sell opportunities, compensation reports, and targeting of profitable industries. 
+•	Drove Significant Productivity Increases – Devised a tool to streamline the creation of broker compensation and opportunity reports from 4 hours per report to 2 days for 1100+ reports (99%+). Streamlined quarterly report process from an 11-day creation time to 1 day (90%+).
+
+HARTFORD LIFE – Simsbury, Connecticut                                                                                            Oct. 2008-Mar. 2012
+The Hartford Life Insurance Company is part of The Hartford Financial Services Group 
+Business Analyst – Initially trained in the use of databases (Microsoft Access) and generation of monthly reports for Group Benefits Underwriting organization. Created reports relating to the underwriting/pricing of business, the quote process, turnaround times, and actual vs. expected losses. 
+•	Highlight Project – Key contributor to a project to create an underwriting data mart by migrating Access databases into Oracle and converted the logic into Informatica mappings. 
+____________________________________________________________________________________________________
+LINKEDIN RECOMMENDATION
+“Jonathan is one of the most intelligent, creative and hardest working persons I have ever known. His ability to extract data, build excel tools and write awesome code made it possible for our team to deliver information that we did not think existed prior to his support on our team. He taught me valuable data analysis skills that will help me continue to grow in my career. Jonathan is an asset to any team he is on.” – Shawn Fourez, Director of Underwriting at Prudential Financial
+____________________________________________________________________________________________________
+TECHNICAL SUMMARY 
+•	Analytic Platforms: ThoughtSpot; Tableau; Dremio; Dataiku; Jupyter; MSBI (SSAS, SSRS, SSIS, SSDB); BusinessObjects; SAS.
+•	Data Platforms: Snowflake; Hadoop/EMR; Oracle; MS SQL Server; MS Access;  Informatica;  Toad.
+•	Agile: Kanban; Scrum; SaFe; Product Management; Solution Management.
+•	Programming languages: Python; PowerShell; VBA; C#.NET; VB.NET; VBA; VBScript.
+•	Software: VSCode; Visual Studio; MS Office Suite; TM1; O365; Teams.
+•	All Other: Terraform; Jenkins; Networking; Security Management; Architecture.
+
+Certifications
+Certified SAFe 5 Product Owner/ Product Manager (May 2021-May 2022)
+AWS Certified Solution Architect Professional (Dec 2020-Dec 2023)
+Tableau Desktop Professional (Nov 2017-Nov 2020)
+____________________________________________________________________________________________________
+KEY STRENGTHS
+Proactive; strong initiative; analytical; the ability to manage multiple priorities in a fast-paced environment. Enterprise-wide understanding of technology – highly effective working with professionals at all levels and functional areas of the organization to drive positive change. Rapid learning curve: able to quickly understand new concepts, techniques, and technologies and immediately apply them.  Experience building and managing a team of analysts. Expert use of analytical tools: SQL, Tableau, etc. Demonstrated experience developing, managing, and meeting/exceeding KPI’s around business process and improvement. Strong ability to build relationships at all levels. Excellent communication, interpersonal, and presentation skills. The ability to thrive in a fast-paced, dynamic, and distributed environment.
+____________________________________________________________________________________________________
+EDUCATION
+QUINNIPIAC UNIVERSITY – Hamden, Connecticut
+Master of Science, Business Analytics, 2018
+
+CENTRAL CONNECTICUT STATE UNIVERSITY – New Britain, Connecticut
+Bachelor of Arts, Philosophy, 2008
+____________________________________________________________________________________________________
+
